@@ -1,0 +1,10 @@
+{
+  "name": "fast-start",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1"
+  }
+}
